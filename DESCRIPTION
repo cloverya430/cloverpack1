@@ -11,5 +11,10 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 Suggests: 
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+VignetteBuilder: knitr
+URL: https://github.com/cloverya430/cloverpack1
+BugReports: https://github.com/cloverya430/cloverpack1/issues
