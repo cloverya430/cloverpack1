@@ -1,8 +1,8 @@
 ---
-title: "cloverpack1"
+title: "Page1"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{cloverpack1}
+  %\VignetteIndexEntry{Page1}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -14,15 +14,4 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r setup}
-library(cloverpack1)
-```
-
-Hello this is a test package created by Clover for practicing purpose.
-
-```{r}
-hello()
-my_sum(1,1)
-```
-
-
+This is test page called Page1.
